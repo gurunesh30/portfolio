@@ -6,6 +6,9 @@ out
 dist
 *.tgz
 
+# generated CSS (compiled by tailwind CLI)
+src/styles.css
+
 # code coverage
 coverage
 *.lcov
