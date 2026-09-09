@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import { createPortal } from "react-dom";
-import { PulsingBorder } from "https://esm.sh/@paper-design/shaders-react@0.0.61?external=react,react-dom&deps=@paper-design/shaders@0.0.61";
+import { PulsingBorder } from "@paper-design/shaders-react";
 
 interface PulsatingBorderProps {
   colors?: string[];
